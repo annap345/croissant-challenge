@@ -1,0 +1,33 @@
+body {
+  background-color: antiquewhite;
+}
+
+h1 {
+  font-size: 60px;
+  text-align: center;
+}
+
+img {
+  margin-left: 100px;
+  margin-right: 100px;
+  border-color: brown;
+  border-style: solid;
+  border-radius: 45px;
+}
+
+a {
+  text-decoration: none;
+  font-size: 25px;
+  margin: 30px;
+  color: brown;
+}
+
+div {
+  border-color: brown;
+  border-style: solid;
+  width: 30%;
+  margin: 0 auto;
+  padding: 10px;
+  border-radius: 30px;
+  margin-top: 10px;
+}
